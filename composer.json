@@ -17,7 +17,6 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
         "php": "^7.4 || ^8.0",
         "ionux/phactor": "1.0.8",
         "kornrunner/keccak": "^1.0",
